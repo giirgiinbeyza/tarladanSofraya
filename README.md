@@ -89,6 +89,10 @@ IDE (Entegre Geliştirme Ortamı): Flutter uygulamaları geliştirmek için bir 
 ### Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
 
+### İlgili Projenin Drive ve Youtube Videosu Linki 
+
+<p> https://drive.google.com/drive/home </p>
+https://www.youtube.com/watch?v=pn_d_GP-jwY
 </div>
 
 
