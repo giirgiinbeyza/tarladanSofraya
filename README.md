@@ -91,7 +91,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENS
 
 ### İlgili Projenin Drive ve Youtube Videosu Linki 
 
-<p> https://drive.google.com/drive/home </p>
+<p>   https://drive.google.com/file/d/1PjS1edLlMQ7sFysrItcTpE15xnBj3DVD/view?usp=drivesdk </p>
 https://www.youtube.com/watch?v=pn_d_GP-jwY
 </div>
 
